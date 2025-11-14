@@ -19,6 +19,8 @@ return {
         "yaml",
         "c",
         "cpp",
+        "ninja",
+        "rst",
       },
     },
   },
